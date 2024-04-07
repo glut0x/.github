@@ -13,4 +13,4 @@
 
 ## Authors
 
-- [@itzouluhh](https://www.github.com/itzouluhh)
+[@itzouluhh](https://www.github.com/itzouluhh)
